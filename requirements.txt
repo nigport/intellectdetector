@@ -3,3 +3,11 @@ ultralytics
 opencv-python-headless
 requests 
 numpy 
+PIL
+os
+io
+tempfile
+Tuple
+asyncio
+dataclass
+defaultdict
