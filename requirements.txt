@@ -1,5 +1,6 @@
 streamlit
 ultralytics
+torch
 opencv-python-headless
 requests 
 numpy 
