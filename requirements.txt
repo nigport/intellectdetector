@@ -1,8 +1,8 @@
 ultralytics==8.3.76
-ultralytics-thop==2.0.14
-opencv-python==4.11.0.86
-Pillow==9.5.0
-numpy==1.26.4
-pandas==2.2.3
-streamlit==1.42.1
-requests==2.32.3
+ultralytics-thop
+opencv-python
+Pillow
+numpy
+pandas
+streamlit
+requests
