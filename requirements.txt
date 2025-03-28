@@ -1,6 +1,6 @@
 ultralytics==8.3.76
 ultralytics-thop
-opencv-python
+opencv-python-headless
 Pillow
 numpy
 pandas
